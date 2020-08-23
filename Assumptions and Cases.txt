@@ -1,0 +1,36 @@
+Assumptions taken all cases - 
+
+1. Coil weight range = [20 - 24] tons 
+
+2. Wagon charge weights ( fixed ) = 63 tons, 66 tons, 69 tons
+
+Number of wagons available = infinite
+
+
+
+Assumptions for "Idle freight Problem", "Idle Freight subcase 2",
+                "Idle freight subcase 3" -
+
+1. coils of 20 tons available = 10
+   coils of 21 tons available = 9
+   coils of 22 tons available = 8
+   coils of 23 tons available = 7
+   coils of 24 tons available = 6
+
+
+
+Assumptions for "Idle freight subcase 4", "Idle freight subcase 4_2",
+                "Idle freight subcase 4_3" -
+
+1. coils of 20 tons available = 6
+   coils of 21 tons available = 7
+   coils of 22 tons available = 8
+   coils of 23 tons available = 9
+   coils of 24 tons available = 10
+
+
+63 ton wagon case ---> "Idle freight Problem" , "Idle freight subcase 4"
+
+66 ton wagon case ---> "Idle freight subcase 3" , "Idle freight subcase 4_3"
+
+69 ton wagon case ---> "Idle freight subcase 2" , "Idle freight subcase 4_2"
